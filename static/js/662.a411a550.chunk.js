@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkdelivery_app=self.webpackChunkdelivery_app||[]).push([[662],{662:function(e,a,n){n.r(a),n.d(a,{default:function(){return r}});var s="ShopsPage_section__IXTaN",c="ShopsPage_container__Mtcqe",i=n(184),r=function(){return(0,i.jsx)("div",{className:s,children:(0,i.jsx)("div",{className:c})})}}}]);
+//# sourceMappingURL=662.a411a550.chunk.js.map
